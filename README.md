@@ -1,7 +1,5 @@
 # Hospital Token Management System
 
-````markdow
-
 A simple and responsive **Hospital Token Booking System** built using **HTML, CSS, JavaScript, and Bootstrap**.
 
 The application allows patients to enter their name, select a doctor and consultation slot, and automatically generate a unique consultation token.
@@ -21,7 +19,6 @@ The application allows patients to enter their name, select a doctor and consult
 - Simple and easy-to-understand code structure
 
 ## Technologies Used
-
 - **HTML5** – Structure of the webpage
 - **CSS3** – Custom hospital-style design
 - **JavaScript** – Token generation and booking validation
@@ -110,5 +107,4 @@ Possible improvements include:
 
 ## Author
 Shemiyya Sherin
-
 
